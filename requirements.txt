@@ -1,0 +1,7 @@
+requests
+pandas
+bs4
+ratelimit
+db-sqlite3
+yagmail
+tqdm
