@@ -3,7 +3,7 @@ from src.database import Database
 from src.notifier import Notifier
 
 
-SEND_TO = ["davidconalrobinson@gmail.com", "tessannekehayes@gmail.com"]
+SEND_TO = ["some@email.address"]
 
 
 # Get Funda listings
